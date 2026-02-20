@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shresth 👋
 
-<!--
-**ShresthChordia/ShresthChordia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student at VIT Vellore  
+💻 Java & Backend Developer  
+📚 DSA Enthusiast | Actively learning  
+🚀 Open to Summer Internship Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Java
+- Data Structures & Algorithms
+- HTML
+- CSS
+- Git & GitHub
+
+---
+
+## 📌 Current Focus
+- Improving problem solving skills
+- Practicing DSA regularly
+- Building backend fundamentals
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/shresth-chordia
